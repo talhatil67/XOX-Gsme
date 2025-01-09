@@ -182,4 +182,8 @@ else if(kazanan = RAKIP)
 else{
   printf("Berabere!");
 }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
